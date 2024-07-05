@@ -18,8 +18,11 @@
   ![Dashboard Staff Perpustakaan](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/dahsboard%20admin.jpg?raw=true)
 
 ### Form Daftar Anggota Perpustakaan
-- Staff perpustakaan dapat mendaftarkan anggota perpustakaan yang baru. Hal ini berguna sebagai alternatif ketika pengunjung baru yang mungkin memiliki beberapa kendala
+- Staff perpustakaan dapat mendaftarkan anggota perpustakaan yang baru. Hal ini berguna sebagai alternatif ketika pengunjung baru yang mungkin memiliki beberapa kendala.
+  
   ![Form Daftar Anggota oleh Staff](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/form%20daftar%20admin.jpg?raw=true)
-
+  
+### Melihat Keseluruhan Data Pengunjung
+- P
 ### Dashboard Pengunjung Perpustakaan
 
