@@ -29,7 +29,7 @@
 ### Melakukan Validasi 
 - Ketika akun yang mendaftar sebagai anggota perpustakaan yang baru, maka QR Code tidak dapat mereka lihat sebelum ada validasi persetujuan dari staff perpustakaan.
 
-  ![Form Daftar Anggota oleh Staff](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/form%20daftar%20admin.jpg?raw=true)
+  ![Form Daftar Anggota oleh Staff](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/validasi%20by%20admin.jpg?raw=true)
   
 ### Dashboard Pengunjung Perpustakaan
 
