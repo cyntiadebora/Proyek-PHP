@@ -1,6 +1,5 @@
-# Tutorial Menggunakan Sistem Log Pengunjung Perpustakaan
 
-## Berikut Merupakan Langkah-langkah Menggunakan Sistem
+## Berikut Merupakan Langkah-langkah Menggunakan Sistem Log Pengunjung Perpustakaan
 
 ### Form Registrasi
 - Berikut ini adalah form registrasi agar memiliki akun baik untuk staff perpustakaan dan pengunjung
