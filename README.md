@@ -24,6 +24,6 @@
   
 ### Melihat Keseluruhan Data Anggota Perpustakaan
 - Data-data anggota ini hanya akan dapat dilihat oleh staff perpustakaan ketika akun yang mendaftar sebagai anggota disetujui oleh staff perpustakaan. 
-   ![Daftar Seluruh Anggota](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/form%20daftar%20admin.jpg?raw=true)
+   ![Daftar Seluruh Anggota](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/data%20pengunjung.jpg?raw=true)
 ### Dashboard Pengunjung Perpustakaan
 
