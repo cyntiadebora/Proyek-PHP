@@ -25,5 +25,11 @@
 ### Melihat Keseluruhan Data Anggota Perpustakaan
 - Data-data anggota ini hanya akan dapat dilihat oleh staff perpustakaan ketika akun yang mendaftar sebagai anggota disetujui oleh staff perpustakaan. 
    ![Daftar Seluruh Anggota](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/data%20pengunjung.jpg?raw=true)
+
+### Melakukan Validasi 
+- Ketika akun yang mendaftar sebagai anggota perpustakaan yang baru, maka QR Code tidak dapat mereka lihat sebelum ada validasi persetujuan dari staff perpustakaan.
+
+  ![Form Daftar Anggota oleh Staff](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/form%20daftar%20admin.jpg?raw=true)
+  
 ### Dashboard Pengunjung Perpustakaan
 
