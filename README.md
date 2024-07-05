@@ -8,7 +8,8 @@
 
 - Setelah melakukan registrasi akun, kita dapat melakukan login dengan akun yang telah terdaftar tersebut.
   
-- ![Form Login](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/login.jpg?raw=true)
+ ![Form Login](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/login.jpg?raw=true)
+
 - Dahsboard Admin
 
   ![Dashboard Staff Perpustakaan](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/dahsboard%20admin.jpg?raw=true)
@@ -16,4 +17,4 @@
 
 
 - Dashboard Pengunjung
-scscsc
+  scscsc
