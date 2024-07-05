@@ -19,7 +19,7 @@
 
 ### Form Daftar Anggota Perpustakaan
 - Staff perpustakaan dapat mendaftarkan anggota perpustakaan yang baru. Hal ini berguna sebagai alternatif ketika pengunjung baru yang mungkin memiliki beberapa kendala
-  ![Form Daftar Anggota oleh Staff](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/login.jpg?raw=true)
+  ![Form Daftar Anggota oleh Staff](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/form%20daftar%20admin.jpg?raw=true)
 
 ### Dashboard Pengunjung Perpustakaan
 
