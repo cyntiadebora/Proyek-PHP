@@ -4,4 +4,4 @@
 
 - Dahsboard Pengunjung
 
-![Img 1](gambar%20demo/dashboard%20admin.jpg)
+![Img 1](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/dahsboard%20admin.jpg?raw=true)
