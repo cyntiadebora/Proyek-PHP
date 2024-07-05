@@ -6,7 +6,7 @@
   
   ![Form Registrasi](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/register.jpg?raw=true)
 
-- Berikut ini adalah form login agar memiliki akun baik untuk staff perpustakaan dan pengunjung
+- Setelah melakukan registrasi akun, kita dapat melakukan login dengan akun yang telah terdaftar tersebut.
   
 - ![Form Login](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/login.jpg?raw=true)
 - Dahsboard Admin
