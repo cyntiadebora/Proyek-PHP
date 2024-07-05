@@ -9,9 +9,11 @@
  
 ### Form Login
 - Setelah melakukan registrasi akun, kita dapat melakukan login dengan akun yang telah terdaftar tersebut.
+  
   ![Form Login](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/login.jpg?raw=true)
 
-- Dahsboard Admin
+### Dahsboard Staff Perpustakaan
+- Setelah berhasil login ke sistem, staff perpustakaan akan melihat tampilan awal/dashboard. Pada dashboatd ini, terdapat label grafik yang kosong. Sistem akan menampilkan grafik ketika terdapat pengunjung yang telah melakukan scan QR Code. 
 
   ![Dashboard Staff Perpustakaan](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/dahsboard%20admin.jpg?raw=true)
 
