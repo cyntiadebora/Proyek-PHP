@@ -4,4 +4,4 @@
 
 - Dahsboard Pengunjung
 
-![Img 1](gambar demo/dahsboard admin.jpg)
+![Img 1](gambar%20demo/dashboard%20admin.jpg)
