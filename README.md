@@ -56,4 +56,15 @@
 ### Melihat Validasi Pendaftaran 
 - Ketika pengunjung telah mendaftar, harus terlebih dahulu menunggu validasi dari staff perpustakaan. Status validasi adalah pending/menunggu sebelum diapprove oleh staff.
 
-   ![Validasi Pendaftaran](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/form%20daftar%20pengunjung.jpg?raw=true)
+   ![Melihat Validasi Pendaftaran](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/validasi%20before%20approved.jpg?raw=true)
+
+### Proses Validasi Oleh Staff Perpustakaan
+- Akun yang mendaftar sebagai anggota akan muncul di akun staff perpustakaan. Staff perpustakaan dapat menyetujui ataupun menolaknya.
+
+   ![Validasi Pendaftaran oleh Staff](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/validasi%20before%20approved.jpg?raw=true)
+
+### Melihat Validasi Pendaftaran 
+- Ketika staff perpustakaan menyetujui pendaftaran, maka pengunjung dapat melihat QR Code dan kartu anggota.
+
+   ![Melihat QR Code](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/validasi%20before%20approved.jpg?raw=true)
+  
