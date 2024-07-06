@@ -53,4 +53,7 @@
 
     ![Form Daftar Anggota](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/form%20daftar%20pengunjung.jpg?raw=true)
 
+### Melihat Validasi Pendaftaran 
+- Ketika pengunjung telah mendaftar, harus terlebih dahulu menunggu validasi dari staff perpustakaan. Status validasi adalah pending/menunggu sebelum diapprove oleh staff.
 
+   ![Validasi Pendaftaran](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/form%20daftar%20pengunjung.jpg?raw=true)
