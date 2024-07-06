@@ -76,7 +76,11 @@
 ### Scan Masuk
 - Pengunjung yang masuk dapat melakukan scan dengan QR Code yang telah digenerate oleh sistem. Pada contoh di bawah ini, QR Code yang sudah difoto diarahkan ke webcam. Apabila statusnya adalah angka 0 (nol), maka pengunjung telah berhasil melakukan scan masuk.
 
+  ![Scan Masuk]https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/scan%20masuk%20oleh%20pengunjung.jpg?raw=true)
+
 ### Scan Keluar
 - Pengunjung yang akan keluar dari perpustakaan dapat melakukan scan dengan QR Code mereka. Apabila statusnya adalah angka 1 (satu), maka pengunjung telah berhasil melakukan scan keluar.
+
+  ![Scan Keluar]https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/scan%20keluar%20oleh%20pengunjung.jpg?raw=true)
 
   
