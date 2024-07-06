@@ -61,7 +61,7 @@
 ### Proses Validasi Oleh Staff Perpustakaan
 - Akun yang mendaftar sebagai anggota akan muncul di akun staff perpustakaan. Staff perpustakaan dapat menyetujui ataupun menolaknya.
 
-   ![Validasi Pendaftaran oleh Staff](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/validasi%20before%20approved.jpg?raw=true)
+   ![Validasi Pendaftaran oleh Staff](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/validasi%20by%20admin.jpg?raw=true)
 
 ### Melihat Validasi Pendaftaran 
 - Ketika staff perpustakaan menyetujui pendaftaran, maka pengunjung dapat melihat QR Code dan kartu anggota.
