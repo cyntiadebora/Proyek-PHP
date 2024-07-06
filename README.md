@@ -66,5 +66,5 @@
 ### Melihat Validasi Pendaftaran 
 - Ketika staff perpustakaan menyetujui pendaftaran, maka pengunjung dapat melihat QR Code dan kartu anggota.
 
-   ![Melihat QR Code](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/validasi%20before%20approved.jpg?raw=true)
+   ![Melihat QR Code](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/validasi%20after%20approved.jpg?raw=true)
   
