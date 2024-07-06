@@ -46,5 +46,5 @@
 ### Dashboard Pengunjung Perpustakaan
 - Setelah berhasil login dengan akun sebagi pengunjung, maka dahsboard yang akan tampil adalah sebagai berikut ini.
   
-  ![Dashboard Pengunjung](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/tabel.jpg?raw=true)
+  ![Dashboard Pengunjung](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/dahsboard%20pengunjung.jpg?raw=true)
 
