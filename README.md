@@ -40,8 +40,11 @@
 ### Melihat Rekapitulasi Pengunjung
 - Staff perpustakaan dapat melihat pengunjung dengan memilih tanggal tertentu. Ketika memilih rentang tanggal tertentu, maka data pengunjung yang tampil hanya sesuai waktu tersebut.
 
- ![Rekapitulasi Pengunjung](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/tabel.jpg?raw=true)
+  ![Rekapitulasi Pengunjung](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/tabel.jpg?raw=true)
 
 
 ### Dashboard Pengunjung Perpustakaan
+- Setelah berhasil login dengan akun sebagi pengunjung, maka dahsboard yang akan tampil adalah sebagai berikut ini.
+  
+  ![Dashboard Pengunjung](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/tabel.jpg?raw=true)
 
