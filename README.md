@@ -51,6 +51,6 @@
 ### Form Daftar Anggota Perpustakaan
 - Agar memiliki kartu anggota dengan QR Code, maka pengunjung harus terlebih dahulu mendaftar sebagai anggota.
 
-    ![Form Daftar Anggota](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/dahsboard%20pengunjung.jpg?raw=true)
+    ![Form Daftar Anggota](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/form%20daftar%20pengunjung.jpg?raw=true)
 
 
