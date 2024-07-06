@@ -37,5 +37,11 @@
   
   ![Grafik Pengunjung Per Bulan](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/chart.jpg?raw=true)
 
+### Melihat Rekapitulasi Pengunjung
+- Staff perpustakaan dapat melihat pengunjung dengan memilih tanggal tertentu. Ketika memilih rentang tanggal tertentu, maka data pengunjung yang tampil hanya sesuai waktu tersebut.
+
+ ![Rekapitulasi Pengunjung](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/chart.jpg?raw=true)
+
+
 ### Dashboard Pengunjung Perpustakaan
 
