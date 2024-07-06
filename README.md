@@ -67,4 +67,9 @@
 - Ketika staff perpustakaan menyetujui pendaftaran, maka pengunjung dapat melihat QR Code dan kartu anggota.
 
    ![Melihat QR Code](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/validasi%20after%20approved.jpg?raw=true)
+
+### Melihat Kartu Anggota
+- Kartu anggota dapat diperoleh pengunjung untuk diprint sehingga dapat melakukan scan dengan QR Code yang berada pada kartu.
+
+  ![Kartu Anggota](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/kartu%20anggota.jpg?raw=true)
   
