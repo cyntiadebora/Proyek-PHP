@@ -1,3 +1,5 @@
+### Penjelasan Singkat Direktori 
+Untuk mengakses web ini pada localhost di browser, terlebih dahulu kita membuat folder utama penyimpanan seluruh folder-folder yang ada. Pada hasil screenshot di bawah ini, folder utamanya dalah "pa2". Folder utama ini berisikan beberapa folder lagi. Folder "admin" menyimpan semua code untuk sisi "staff perpustakaan". Folder "pengunjung" menyimpan semua code untuk sisi "pengunjung/anggota perpustakaan". Folder "scan" menyimpan semua code untuk tampilan scanner yaitu webcam. Untuk file-file code yang berada di luar folder yang sudah disebutkan sebelumnya adalah file code untuk menampilkan form registrasi dan login. 
 
 ## Berikut Merupakan Langkah-langkah Menggunakan Sistem Log Pengunjung Perpustakaan
 
