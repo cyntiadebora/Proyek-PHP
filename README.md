@@ -35,7 +35,7 @@
 ### Melihat Grafik per Bulan 
 - Staff perpustakaan dapat memfilter sesuai bulan untuk melihat status pengunjung yang telah berkunjung atau yang sudah pernah melakukan scan masuk-keluar perpustakaan. Status pengunjung dibagi menjadi beberapa kategori, yaitu mahasiswa, staff, dosen, keluarga staff/dosen, dan guest.
   
-  ![Daftar Seluruh Anggota](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/data%20pengunjung.jpg?raw=true)
+  ![Grafik Pengunjung Per Bulan](https://github.com/cyntiadebora/Proyek-PHP/blob/main/gambar%20demo/chart.jpg?raw=true)
 
 ### Dashboard Pengunjung Perpustakaan
 
